@@ -1,0 +1,75 @@
+# Sri Vari Engineering - Security.txt
+# Security Policy and Vulnerability Disclosure
+# https://srivariengineering.com/.well-known/security.txt
+
+# Contact information for security researchers
+Contact: mailto:srivariengineering16@gmail.com
+
+# Encryption key (PGP) - Optional, add if you have one
+# Encryption: https://srivariengineering.com/pgp-key.txt
+
+# Preferred language for security communications
+Preferred-Languages: en
+
+# Policy URL
+Policy: https://srivariengineering.com/security-policy.html
+
+# Acknowledgments page
+Acknowledgments: https://srivariengineering.com/security-acknowledgments.html
+
+# Hiring page (if you're hiring security professionals)
+# Hiring: https://srivariengineering.com/careers
+
+# Expiration date for this security policy (1 year from creation)
+Expires: 2027-03-16T00:00:00.000Z
+
+# Security Guidelines:
+# 
+# 1. RESPONSIBLE DISCLOSURE
+#    We encourage responsible disclosure of security vulnerabilities.
+#    Please report any security issues to our contact email before
+#    public disclosure.
+#
+# 2. SCOPE
+#    This policy covers all subdomains and services under:
+#    - srivariengineering.com
+#    - www.srivariengineering.com
+#
+# 3. OUT OF SCOPE
+#    The following are out of scope:
+#    - Clickjacking on pages without sensitive actions
+#    - Self-XSS attacks
+#    - Missing security headers that don't lead to direct exploitation
+#    - Comma Separated Quoting (CSQ) errors
+#    - Logout cross-site request forgery (CSRF)
+#    - Best practices that don't affect security posture
+#
+# 4. SAFE HARBOR
+#    Security researchers who follow this policy will not face
+#    legal action as long as they act in good faith.
+#
+# 5. WHAT WE EXPECT FROM YOU
+#    - Provide detailed reproduction steps
+#    - Allow reasonable time for us to fix the issue
+#    - Make a good faith effort to avoid privacy violations
+#    - Destroy any copies of data you may have downloaded
+#    - Report the vulnerability only to us
+#
+# 6. WHAT YOU CAN EXPECT FROM US
+#    - A response within 72 hours of your report
+#    - Regular updates on the status of your report
+#    - Public acknowledgment (if you wish) after the issue is resolved
+#    - No legal action if you follow this policy
+#
+# 7. VULNERABILITY TYPES WE'RE INTERESTED IN
+#    - Cross-site scripting (XSS)
+#    - SQL injection
+#    - Authentication bypass
+#    - Remote code execution
+#    - Privilege escalation
+#    - Information disclosure
+#    - Cross-site request forgery (CSRF)
+#    - Server-side request forgery (SSRF)
+#    - File inclusion vulnerabilities
+#
+# Thank you for helping keep Sri Vari Engineering secure!

@@ -1,0 +1,191 @@
+# Sri Vari Engineering - Robots.txt
+# https://srivariengineering.com/robots.txt
+# Last Updated: March 2026
+
+# ===================================
+# DEFAULT RULES FOR ALL CRAWLERS
+# ===================================
+User-agent: *
+
+# Allow crawling of public pages
+Allow: /
+Allow: /index.html
+Allow: /styles.css
+Allow: /script.js
+Allow: /images/
+Allow: /logo.jpeg
+
+# Block access to sensitive/private directories
+Disallow: /private/
+Disallow: /admin/
+Disallow: /backend/
+Disallow: /api/
+Disallow: /config/
+Disallow: /includes/
+Disallow: /vendor/
+Disallow: /node_modules/
+Disallow: /.git/
+Disallow: /.github/
+Disallow: /.qwen/
+Disallow: /.well-known/security.txt
+Disallow: /security.txt
+Disallow: /*.json$
+Disallow: /*.log$
+Disallow: /*.txt$
+Disallow: /*.bak$
+Disallow: /*.backup$
+Disallow: /*.tmp$
+Disallow: /*.swp$
+Disallow: /*.sql$
+Disallow: /*.db$
+Disallow: /*.sqlite$
+
+# Block common vulnerable paths
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/
+Disallow: /administrator/
+Disallow: /phpmyadmin/
+Disallow: /pma/
+Disallow: /mysql/
+Disallow: /backup/
+Disallow: /backups/
+Disallow: /test/
+Disallow: /temp/
+Disallow: /tmp/
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://srivariengineering.com/sitemap.xml
+
+# ===================================
+# GOOGLE BOT (Priority - Faster Crawl)
+# ===================================
+User-agent: Googlebot
+Allow: /
+Allow: /index.html
+Allow: /images/
+Allow: /logo.jpeg
+Disallow: /.well-known/
+Disallow: /*.json$
+Crawl-delay: 0.5
+
+# Google Mobile
+User-agent: Googlebot-Mobile
+Allow: /
+Allow: /index.html
+Disallow: /.well-known/
+
+# Google Images
+User-agent: Googlebot-Image
+Allow: /images/
+Allow: /logo.jpeg
+Disallow: /
+
+# ===================================
+# BING
+# ===================================
+User-agent: Bingbot
+Allow: /
+Allow: /index.html
+Disallow: /.well-known/
+Crawl-delay: 1
+
+# ===================================
+# YAHOO (SLURP)
+# ===================================
+User-agent: Slurp
+Allow: /
+Allow: /index.html
+Disallow: /.well-known/
+Crawl-delay: 2
+
+# ===================================
+# DUCKDUCKGO
+# ===================================
+User-agent: DuckDuckBot
+Allow: /
+Allow: /index.html
+Disallow: /.well-known/
+
+# ===================================
+# BAIDU
+# ===================================
+User-agent: Baiduspider
+Allow: /
+Allow: /index.html
+Disallow: /.well-known/
+Crawl-delay: 2
+
+# ===================================
+# YANDEX
+# ===================================
+User-agent: YandexBot
+Allow: /
+Allow: /index.html
+Disallow: /.well-known/
+Crawl-delay: 2
+
+# ===================================
+# FACEBOOK EXTERNAL (For Open Graph)
+# ===================================
+User-agent: facebookexternalhit
+Allow: /
+Allow: /index.html
+Allow: /logo.jpeg
+Allow: /images/
+Disallow: /.well-known/
+
+# ===================================
+# TWITTER BOT (For Cards)
+# ===================================
+User-agent: Twitterbot
+Allow: /
+Allow: /index.html
+Allow: /logo.jpeg
+Allow: /images/
+Disallow: /.well-known/
+
+# ===================================
+# LINKEDIN
+# ===================================
+User-agent: LinkedInBot
+Allow: /
+Allow: /index.html
+Disallow: /.well-known/
+
+# ===================================
+# BLOCK MALICIOUS BOTS
+# ===================================
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Exabot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+# Block empty user agents (often malicious)
+User-agent: 
+Disallow: /
+
+# ===================================
+# SECURITY NOTES
+# ===================================
+# - This robots.txt helps prevent indexing of sensitive files
+# - Well-behaved bots will respect these rules
+# - Malicious bots may ignore robots.txt - use server-side security
+# - Consider implementing rate limiting at server level
+# - Monitor access logs for suspicious activity

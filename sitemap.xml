@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+    
+    <!-- Homepage -->
+    <url>
+        <loc>https://srivariengineering.com/</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- About Section -->
+    <url>
+        <loc>https://srivariengineering.com/#about</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Services Section -->
+    <url>
+        <loc>https://srivariengineering.com/#services</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Gallery Section -->
+    <url>
+        <loc>https://srivariengineering.com/#gallery</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Contact Section -->
+    <url>
+        <loc>https://srivariengineering.com/#contact</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Images -->
+    <url>
+        <loc>https://srivariengineering.com/images/1.png</loc>
+        <image:image>
+            <image:loc>https://srivariengineering.com/images/1.png</image:loc>
+            <image:title>Press Tools Manufacturing</image:title>
+            <image:caption>Precision manufacturing of press tools</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://srivariengineering.com/images/2.png</loc>
+        <image:image>
+            <image:loc>https://srivariengineering.com/images/2.png</image:loc>
+            <image:title>Gauges Manufacturing</image:title>
+            <image:caption>High-precision gauges for quality control</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://srivariengineering.com/images/3.png</loc>
+        <image:image>
+            <image:loc>https://srivariengineering.com/images/3.png</image:loc>
+            <image:title>Jig Boring Job Works</image:title>
+            <image:caption>Accurate jig boring services</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://srivariengineering.com/images/4.png</loc>
+        <image:image>
+            <image:loc>https://srivariengineering.com/images/4.png</image:loc>
+            <image:title>Wire Cutting Job</image:title>
+            <image:caption>CNC wire cutting services</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://srivariengineering.com/images/5.png</loc>
+        <image:image>
+            <image:loc>https://srivariengineering.com/images/5.png</image:loc>
+            <image:title>Tool Room Work</image:title>
+            <image:caption>Complete tool room solutions</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://srivariengineering.com/images/6.png</loc>
+        <image:image>
+            <image:loc>https://srivariengineering.com/images/6.png</image:loc>
+            <image:title>Custom Engineering</image:title>
+            <image:caption>Tailored engineering solutions</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://srivariengineering.com/images/all.png</loc>
+        <image:image>
+            <image:loc>https://srivariengineering.com/images/all.png</image:loc>
+            <image:title>Sri Vari Engineering - All Products</image:title>
+            <image:caption>Complete range of manufacturing services</image:caption>
+        </image:image>
+    </url>
+    
+    <url>
+        <loc>https://srivariengineering.com/logo.jpeg</loc>
+        <image:image>
+            <image:loc>https://srivariengineering.com/logo.jpeg</image:loc>
+            <image:title>Sri Vari Engineering Logo</image:title>
+            <image:caption>Official company logo</image:caption>
+        </image:image>
+    </url>
+    
+</urlset>
