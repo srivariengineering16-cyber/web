@@ -2,118 +2,269 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-    
+
     <!-- Homepage -->
     <url>
         <loc>https://srivariengineering.com/</loc>
-        <lastmod>2026-03-14</lastmod>
+        <lastmod>2026-03-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
-    
+
     <!-- About Section -->
     <url>
         <loc>https://srivariengineering.com/#about</loc>
-        <lastmod>2026-03-14</lastmod>
+        <lastmod>2026-03-18</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.8</priority>
     </url>
-    
+
     <!-- Services Section -->
     <url>
         <loc>https://srivariengineering.com/#services</loc>
-        <lastmod>2026-03-14</lastmod>
+        <lastmod>2026-03-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
-    
+
     <!-- Gallery Section -->
     <url>
         <loc>https://srivariengineering.com/#gallery</loc>
-        <lastmod>2026-03-14</lastmod>
+        <lastmod>2026-03-18</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
-    
+
+    <!-- Clients Section -->
+    <url>
+        <loc>https://srivariengineering.com/#clients</loc>
+        <lastmod>2026-03-18</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- FAQ Section -->
+    <url>
+        <loc>https://srivariengineering.com/#faq</loc>
+        <lastmod>2026-03-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
     <!-- Contact Section -->
     <url>
         <loc>https://srivariengineering.com/#contact</loc>
-        <lastmod>2026-03-14</lastmod>
+        <lastmod>2026-03-18</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.8</priority>
     </url>
-    
-    <!-- Images -->
+
+    <!-- Images with Enhanced Captions -->
     <url>
         <loc>https://srivariengineering.com/images/1.png</loc>
         <image:image>
             <image:loc>https://srivariengineering.com/images/1.png</image:loc>
-            <image:title>Press Tools Manufacturing</image:title>
-            <image:caption>Precision manufacturing of press tools</image:caption>
+            <image:title>Press Tools Manufacturing Chennai - Sri Vari Engineering</image:title>
+            <image:caption>Precision manufacturing of press tools for steel and iron industries in Padi, Chennai</image:caption>
         </image:image>
     </url>
-    
+
     <url>
         <loc>https://srivariengineering.com/images/2.png</loc>
         <image:image>
             <image:loc>https://srivariengineering.com/images/2.png</image:loc>
-            <image:title>Gauges Manufacturing</image:title>
-            <image:caption>High-precision gauges for quality control</image:caption>
+            <image:title>Gauges Manufacturing Padi - Precision Measurement Tools</image:title>
+            <image:caption>High-precision gauges for quality control and measurement in manufacturing processes</image:caption>
         </image:image>
     </url>
-    
+
     <url>
         <loc>https://srivariengineering.com/images/3.png</loc>
         <image:image>
             <image:loc>https://srivariengineering.com/images/3.png</image:loc>
-            <image:title>Jig Boring Job Works</image:title>
-            <image:caption>Accurate jig boring services</image:caption>
+            <image:title>Jig Boring Job Works Chennai - Precision Machining</image:title>
+            <image:caption>Accurate jig boring services for complex machining requirements</image:caption>
         </image:image>
     </url>
-    
+
     <url>
         <loc>https://srivariengineering.com/images/4.png</loc>
         <image:image>
             <image:loc>https://srivariengineering.com/images/4.png</image:loc>
-            <image:title>Wire Cutting Job</image:title>
-            <image:caption>CNC wire cutting services</image:caption>
+            <image:title>CNC Wire Cutting Job Padi - EDM Services</image:title>
+            <image:caption>Advanced CNC wire cutting services with travel size X: 500, Y: 600, Z: 600</image:caption>
         </image:image>
     </url>
-    
+
     <url>
         <loc>https://srivariengineering.com/images/5.png</loc>
         <image:image>
             <image:loc>https://srivariengineering.com/images/5.png</image:loc>
-            <image:title>Tool Room Work</image:title>
-            <image:caption>Complete tool room solutions</image:caption>
+            <image:title>Tool Room Work Chennai - Complete Tooling Solutions</image:title>
+            <image:caption>Complete tool room solutions including machining, grinding, and precision tool manufacturing</image:caption>
         </image:image>
     </url>
-    
+
     <url>
         <loc>https://srivariengineering.com/images/6.png</loc>
         <image:image>
             <image:loc>https://srivariengineering.com/images/6.png</image:loc>
-            <image:title>Custom Engineering</image:title>
-            <image:caption>Tailored engineering solutions</image:caption>
+            <image:title>Custom Engineering Solutions Tamil Nadu</image:title>
+            <image:caption>Tailored engineering solutions to meet specific client requirements</image:caption>
         </image:image>
     </url>
-    
+
+    <url>
+        <loc>https://srivariengineering.com/images/7.png</loc>
+        <image:image>
+            <image:loc>https://srivariengineering.com/images/7.png</image:loc>
+            <image:title>Steel Component Manufacturing Chennai</image:title>
+            <image:caption>Quality steel fabrication for industrial applications</image:caption>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://srivariengineering.com/images/8.png</loc>
+        <image:image>
+            <image:loc>https://srivariengineering.com/images/8.png</image:loc>
+            <image:title>Quality Control Inspection - Sri Vari Engineering</image:title>
+            <image:caption>Testing and inspection services for precision components</image:caption>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://srivariengineering.com/images/9.png</loc>
+        <image:image>
+            <image:loc>https://srivariengineering.com/images/9.png</image:loc>
+            <image:title>Industrial Solutions Chennai - Metal Industries</image:title>
+            <image:caption>Complete engineering solutions for metal industries</image:caption>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://srivariengineering.com/images/10.png</loc>
+        <image:image>
+            <image:loc>https://srivariengineering.com/images/10.png</image:loc>
+            <image:title>Finished Metal Products - Ready for Delivery</image:title>
+            <image:caption>Quality finished products ready for client delivery</image:caption>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://srivariengineering.com/images/11.png</loc>
+        <image:image>
+            <image:loc>https://srivariengineering.com/images/11.png</image:loc>
+            <image:title>Precision Metal Parts - High Accuracy Components</image:title>
+            <image:caption>High accuracy precision metal components</image:caption>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://srivariengineering.com/images/12.png</loc>
+        <image:image>
+            <image:loc>https://srivariengineering.com/images/12.png</image:loc>
+            <image:title>Metal Fabrication Process - Expert Manufacturing</image:title>
+            <image:caption>Expert metal fabrication process at Sri Vari Engineering</image:caption>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://srivariengineering.com/images/13.png</loc>
+        <image:image>
+            <image:loc>https://srivariengineering.com/images/13.png</image:loc>
+            <image:title>Industrial Manufacturing Equipment Chennai</image:title>
+            <image:caption>Advanced manufacturing equipment at Padi facility</image:caption>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://srivariengineering.com/images/14.png</loc>
+        <image:image>
+            <image:loc>https://srivariengineering.com/images/14.png</image:loc>
+            <image:title>Precision Engineering Tools Tamil Nadu</image:title>
+            <image:caption>Precision engineering tools and components</image:caption>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://srivariengineering.com/images/15.png</loc>
+        <image:image>
+            <image:loc>https://srivariengineering.com/images/15.png</image:loc>
+            <image:title>Sheet Metal Tools Manufacturing</image:title>
+            <image:caption>Sheet metal tools and stamping dies</image:caption>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://srivariengineering.com/images/16.png</loc>
+        <image:image>
+            <image:loc>https://srivariengineering.com/images/16.png</image:loc>
+            <image:title>Automotive Components Chennai</image:title>
+            <image:caption>Precision automotive components manufacturing</image:caption>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://srivariengineering.com/images/17.png</loc>
+        <image:image>
+            <image:loc>https://srivariengineering.com/images/17.png</image:loc>
+            <image:title>Industrial Tooling Solutions Padi</image:title>
+            <image:caption>Complete industrial tooling solutions</image:caption>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://srivariengineering.com/images/20.png</loc>
+        <image:image>
+            <image:loc>https://srivariengineering.com/images/20.png</image:loc>
+            <image:title>Precision Machine Work Chennai</image:title>
+            <image:caption>Precision machining and manufacturing work</image:caption>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://srivariengineering.com/images/21.jpeg</loc>
+        <image:image>
+            <image:loc>https://srivariengineering.com/images/21.jpeg</image:loc>
+            <image:title>CMC Machine - Advanced Machining Center</image:title>
+            <image:caption>Advanced CMC machining center at Sri Vari Engineering</image:caption>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://srivariengineering.com/images/22.jpeg</loc>
+        <image:image>
+            <image:loc>https://srivariengineering.com/images/22.jpeg</image:loc>
+            <image:title>Surface Grinding Services Chennai</image:title>
+            <image:caption>Precision surface grinding and finishing services</image:caption>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://srivariengineering.com/images/23.jpeg</loc>
+        <image:image>
+            <image:loc>https://srivariengineering.com/images/23.jpeg</image:loc>
+            <image:title>Wirecut Machine - CNC EDM Wire Cutting</image:title>
+            <image:caption>CNC wirecut machine for precision cutting</image:caption>
+        </image:image>
+    </url>
+
     <url>
         <loc>https://srivariengineering.com/images/all.png</loc>
         <image:image>
             <image:loc>https://srivariengineering.com/images/all.png</image:loc>
-            <image:title>Sri Vari Engineering - All Products</image:title>
-            <image:caption>Complete range of manufacturing services</image:caption>
+            <image:title>Sri Vari Engineering - Complete Product Range</image:title>
+            <image:caption>Complete range of manufacturing services at Sri Vari Engineering Padi Chennai</image:caption>
         </image:image>
     </url>
-    
+
     <url>
         <loc>https://srivariengineering.com/logo.jpeg</loc>
         <image:image>
             <image:loc>https://srivariengineering.com/logo.jpeg</image:loc>
-            <image:title>Sri Vari Engineering Logo</image:title>
-            <image:caption>Official company logo</image:caption>
+            <image:title>Sri Vari Engineering Logo - Padi Chennai</image:title>
+            <image:caption>Official company logo of Sri Vari Engineering</image:caption>
         </image:image>
     </url>
-    
+
 </urlset>
